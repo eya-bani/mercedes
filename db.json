@@ -1,0 +1,28 @@
+{
+  "prod": [
+    {
+      "image": "/src/assets/p2.jpeg",
+      "title": " mercedes",
+      "prix": "5000$",
+      "id": 2
+    },
+    {
+      "image": "/src/assets/p3.jpeg",
+      "title": "RED MERCEDES",
+      "prix": "4587$",
+      "id": 3
+    },
+    {
+      "image": "/src/assets/p4.jpeg",
+      "title": "WHITE MERCEDES",
+      "prix": "45966$",
+      "id": 4
+    },
+    {
+      "image": "/src/assets/p1.jpeg",
+      "title": "YELLOW MER",
+      "prix": "5000$",
+      "id": 5
+    }
+  ]
+}
